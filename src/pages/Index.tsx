@@ -1,4 +1,5 @@
-83
+140
+  83
   import { useState, useEffect } from "react";
 import { Heart, ChevronLeft, ChevronRight, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -138,7 +139,7 @@ const Index = () => {
     <div className="relative min-h-screen overflow-hidden bg-background flex items-center justify-center p-4">
       {/* Add a simple indicator that the app is loading */}
       <div id="app-loaded" style={{ position: 'absolute', top: 0, left: 0, zIndex: 9999, color: 'red', fontSize: '20px' }}>
-        App Loaded Successfully - Version 2
+        
       </div>
       {/* Floating Orbs */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden">
@@ -214,7 +215,7 @@ const Index = () => {
           <div className="relative z-10">
             <div className="text-xs uppercase tracking-wider opacity-70 mb-1">hey, sunshine</div>
             <h1 className="text-4xl md:text-5xl font-bold mb-2 bg-gradient-romantic bg-clip-text text-transparent">
-              Pakhi
+              For Someone Special
             </h1>
             <p className="text-base opacity-80 mb-6">This little space on the internet is just for you 💖</p>
 
