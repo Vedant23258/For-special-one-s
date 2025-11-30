@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+83
+  import { useState, useEffect } from "react";
 import { Heart, ChevronLeft, ChevronRight, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
@@ -157,7 +158,7 @@ const Index = () => {
       <div className="relative z-10 w-full max-w-lg">
         {/* Top Navigation */}
         <div className="flex justify-between items-center mb-3 px-2">
-          <div className="text-sm opacity-70">For Pakhi ✨</div>
+          <div className="text-sm opacity-70">For Someone Special ✨</div>
           <div className="flex gap-2">
             <Button
               variant="ghost"
