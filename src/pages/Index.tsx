@@ -163,7 +163,7 @@ const Index = () => {
       <div className="relative z-10 w-full max-w-lg">
         {/* Top Navigation */}
         <div className="flex justify-between items-center mb-3 px-2">
-          <div className="text-sm opacity-70">For Someone Special ✨</div>
+          <div className="text-sm opacity-70">Cutie 💕 ✨</div>
           <div className="flex gap-2">
             <Button
               variant="ghost"
@@ -215,7 +215,7 @@ const Index = () => {
           <div className="relative z-10">
             <div className="text-xs uppercase tracking-wider opacity-70 mb-1">hey, sunshine</div>
             <h1 className="text-4xl md:text-5xl font-bold mb-2 bg-gradient-romantic bg-clip-text text-transparent">
-              For Someone Special
+              Cutie 💕
             </h1>
             <p className="text-base opacity-80 mb-6">This little space on the internet is just for you 💖</p>
 
@@ -419,7 +419,7 @@ const Index = () => {
 
         {/* Footer Hint */}
         <div className="text-center mt-4 text-xs opacity-60">
-          Made with 💗 for someone special
+          Made with 💗 Cutie 💕
         </div>
       </div>
     </div>
