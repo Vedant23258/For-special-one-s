@@ -138,7 +138,7 @@ const Index = () => {
     <div className="relative min-h-screen overflow-hidden bg-background flex items-center justify-center p-4">
       {/* Add a simple indicator that the app is loading */}
       <div id="app-loaded" style={{ position: 'absolute', top: 0, left: 0, zIndex: 9999, color: 'red', fontSize: '20px' }}>
-        App Loaded Successfully
+        App Loaded Successfully - Version 2
       </div>
       {/* Floating Orbs */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden">
