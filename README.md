@@ -1,6 +1,7 @@
-# Little Secret World
+# For Special One's
 
-A personal interactive web experience built with React, TypeScript, Vite, Tailwind CSS and shadcn-ui components.
+For Special One’s is a personal, interactive web experience crafted with modern frontend technologies. Built using React, TypeScript, Vite, Tailwind CSS, and shadcn‑ui components, the project focuses on delivering a smooth, responsive, and visually elegant interface.
+
 
 ## Tech Stack
 
